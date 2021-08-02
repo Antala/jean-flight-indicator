@@ -10,15 +10,15 @@
   "author": "Jeremias Andris",
   "license": "MIT",
   "dependencies": {
-    "jean-amd": "1.0.3",
-    "jean-failure": "^1.0.1",
-    "jean-inheritance": "^1.0.4",
-    "jean-interface": "^1.1.0",
-    "jean-type-check": "^1.5.2"
+    "https://github.com/Antala/jean-amd": "1.0.3",
+    "https://github.com/Antala/jean-failure": "^1.0.1",
+    "https://github.com/Antala/jean-inheritance": "^1.0.4",
+    "https://github.com/Antala/jean-interface": "^1.1.0",
+    "https://github.com/Antala/jean-type-check": "^1.5.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/je-an/jean-flight-indicator.git"
+    "url": "https://github.com/Antala/jean-flight-indicator.git"
   },
   "devDependencies": {
     "bootstrap": "^4.2.1",
