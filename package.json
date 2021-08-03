@@ -10,7 +10,7 @@
   "author": "Jeremias Andris",
   "license": "MIT",
   "dependencies": {
-    "jean-amd": "Antala/jean-amd#1.0.3",
+    "jean-amd": "Antala/jean-amd#v1.0.3",
     "jean-failure": "Antala/jean-failure#v1.0.1",
     "jean-inheritance": "Antala/jean-inheritance#v1.0.4",
     "jean-interface": "Antala/jean-interface#v1.1.0",
